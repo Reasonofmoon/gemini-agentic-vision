@@ -1,6 +1,4 @@
-<div align="center">
-
-# 🔮 Gemini Agentic Vision
+﻿# 🔮 Gemini Agentic Vision
 
 ### *Visual Intelligence Meets Agentic Reasoning*
 
@@ -16,8 +14,6 @@
 > Gemini의 시각 분석 + 멀티턴 에이전틱 대화로 이미지 속 숨겨진 인사이트를 추출합니다.
 
 [🚀 AI Studio 원본](https://ai.studio/apps/bundled/gemini_visual_thinking) · [🐛 이슈 리포트](../../issues)
-
-</div>
 
 ---
 
